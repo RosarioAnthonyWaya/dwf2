@@ -9078,7 +9078,7 @@ strong {
   flex: 1;
 }
 
-/* Mobile fallback */
+/* Mobile fallbacks */
 @media screen and (max-width: 767px) {
   .support-row {
     flex-direction: column;
